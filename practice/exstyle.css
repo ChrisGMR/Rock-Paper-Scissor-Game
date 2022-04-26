@@ -1,0 +1,37 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    height: 100vh;
+}
+.redButton{
+    background-color: red;
+    width: 100px;
+    
+}
+.orangeButton{
+    background-color: orange;
+    width: 100px;
+}
+.yellowButton{
+    background-color: yellow;
+    width: 100px;
+}
+.greenButton{
+    background-color: green;
+    width: 100px;
+    color: white;
+}
+.blueButton{
+    background-color: blue;
+    width: 100px;
+    color: white;
+}
+.indigoButton{
+    background-color: indigo;
+    width: 100px;
+    color: white;
+}
+.violetButton{
+    background-color: violet;
+    width: 100px;
+}

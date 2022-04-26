@@ -1,0 +1,22 @@
+button{
+    width: 400px;
+    height: 200px;
+    border-radius: 50px;
+    font-size: 80px;
+    cursor: pointer;
+}
+.blue{
+    background-color: blue;
+}
+.green{
+    background-color: green;
+}
+.red{
+    background-color: red;
+}
+.violet{
+    background-color: violet;
+}
+.aqua{
+    background-color: aqua;
+}
