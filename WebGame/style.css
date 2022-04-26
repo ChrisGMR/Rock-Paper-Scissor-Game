@@ -1,0 +1,41 @@
+
+.container{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-around;
+    gap: 50px;
+}
+.title{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+}
+.top{
+    display: flex;
+    justify-content: center;
+}
+.bottom{
+    display: flex;
+    justify-content: space-around;
+}
+img{
+    width: 250px;
+    height: 250px;
+}
+.button:hover{
+    border: 10px solid rgba(18, 154, 18, 0.913);
+}
+.button:active{
+  background-color: #3e8e41;
+  box-shadow: 0 1px #666;
+  transform: translateY(4px);
+}
+.button{
+    background-color: transparent;
+    border-radius: 5%;
+    box-shadow: 9px 9px #999;
+}
+h1{
+    color: #78f47c;
+    font-size:70px;
+}
